@@ -1,0 +1,16 @@
+{
+    "credentials":{
+        "printoutputs":"false",
+        "user":"",
+        "passwd":""
+    }
+    "cloudatcockscredentials":{
+        "enabled":"false"
+        "user":"",
+        "passwd":""
+    },
+    "loggingenabled":{
+        "enabled":"false",
+        "logfilelocation":""
+    }
+}
